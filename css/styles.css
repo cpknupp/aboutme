@@ -21,8 +21,8 @@
     background-color: lightgray;
     border: 1px solid black;
     border-radius: 20px;
-    position: absolute;
-    top: 80%;
+    position: relative;
+    top: 100%;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%);
